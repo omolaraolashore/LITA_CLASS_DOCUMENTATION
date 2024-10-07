@@ -12,7 +12,6 @@
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[
 ---
 ### Project Overview
 ---
@@ -70,3 +69,4 @@ This involves exploring the avaialable Data to answer some questions such as:
   - Where is the Airline losing the most money?
 
 ### Data Visualization
+---
