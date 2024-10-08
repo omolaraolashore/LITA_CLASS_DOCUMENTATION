@@ -70,3 +70,4 @@ This involves exploring the avaialable Data to answer some questions such as:
 
 ### Data Visualization
 ---
+[Redox Airline .pdf](https://github.com/user-attachments/files/17296501/Redox.Airline.pdf)
