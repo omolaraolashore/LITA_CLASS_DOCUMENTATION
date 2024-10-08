@@ -53,7 +53,7 @@ In the initial phase of data cleaning and preparation,I performed the following 
 
 ### Exploratory Data Analysis
 ---
-This involves exploring the avaialable Data to answer some questions such as:
+This involves exploring the avaialable Data to answer some analytical questions such as:
   - Which is the most common type of Aircraft?
 
   - What is the maximum average ticket price for flights on the aircrafts?
