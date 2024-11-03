@@ -70,4 +70,5 @@ This involves exploring the avaialable Data to answer some analytical questions 
 
 ### Data Visualization
 ---
-[Redox Airline .pdf](https://github.com/user-attachments/files/17296501/Redox.Airline.pdf)
+
+[Redox Airline .pdf](https://github.com/user-attachments/files/17611049/Redox.Airline.pdf)
