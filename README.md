@@ -31,9 +31,9 @@ position in the industry
 ---
 The Data for this project was provided by the Operations Department of the Airline. The Data includes the Flight Table, which has  columns describing 
     SeatCapacity,FuelCostperSeatMile,Scheduled Departure and Avg Ticket Price.
-It also has the Routes table that shows coloumn with
+It also has the Routes table that shows coloumns with
     RouteID,Airport,AirportID	,Distance,and	ListPrice.
-The Data also includes Airport Table, having columc like
+The Data also includes Airport Table, having columns like
     AirportID,	AirportName and	Gates (number of available).
 Lastly,there is a table in the Data given called Aircraft Table,it has columns like
     AircraftID,	AircraftType,	SeatCapacity,	FuelCostperSeatMile (Cents) and	Fuel cost per mile
