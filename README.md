@@ -29,30 +29,32 @@ position in the industry
 
 ### Data Sources
 ---
-The Data for this project was provided by the Operations Department of the Airline
+The Data for this project was provided by the Operations Department of the Airline. The Data includes the Flight Table, which has  columns describing 
+    SeatCapacity,FuelCostperSeatMile,Scheduled Departure and Avg Ticket Price.
+It also has the Routes table that shows coloumn with
+    RouteID,Airport,AirportID	,Distance,and	ListPrice.
+The Data also includes Airport Table, having columc like
+    AirportID,	AirportName and	Gates (number of available).
+Lastly,there is a table in the Data given called Aircraft Table,it has columns like
+    AircraftID,	AircraftType,	SeatCapacity,	FuelCostperSeatMile (Cents) and	Fuel cost per mile
 
 ### Tool Used
 ---
 - Microsoft Excel [Download Here][Airline Excel Project (version 1).xlsb.xlsx](https://github.com/user-attachments/files/17615779/Airline.Excel.Project.version.1.xlsb.xlsx)
-
-
   
    1.  For Data cleaning
 
-  
-   2.  For  Analysis
-  
+   2.  For Data Analysis
+     
    3.  For Data Visualization
 - Github for portfolio building
 
 ### Data Cleaning and preparation
 ---
-In the initial phase of data cleaning and preparation,I performed the following actions;
- 1. Data loading and inspection
-
- 2. Handling missing variables
-
- 3. Data cleaning and formatting
+1. **Data Cleaning**: Removed duplicates and standardized date formats.
+2. **Pivot Tables**: 
+3. **Visualization**: .
+4. **Formulas**: Applied Excel functions such as `SUMIF`, `AVERAGE`, and `VLOOKUP` for aggregating data and extracting insights.
 
 ### Exploratory Data Analysis
 ---
